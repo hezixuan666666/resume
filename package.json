@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/mcc108/resume.git"
   },
-  "author": "Cong Min",
+  "author": "He Zixuan",
   "license": "cc-by-sa-4.0",
   "homepage": "http://resume.congm.in",
   "devDependencies": {
